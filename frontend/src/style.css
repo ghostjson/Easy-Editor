@@ -1,0 +1,18 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+pre {
+    overflow-y: scroll;
+}
+
+#file-input, #file-save-input {
+    position: absolute;
+    top: 0px;
+    z-index: 2;
+    left: 30%;
+    width: 40vw;
+    display: none;
+}
