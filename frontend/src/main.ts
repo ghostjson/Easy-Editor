@@ -1,5 +1,7 @@
-import { OpenFile } from "../wailsjs/go/main/App";
 import "./style.css";
+import "./editor/ace.js";
+import "./editor/theme-twilight.js";
+import { OpenFile } from "../wailsjs/go/main/App";
 import { SaveFile } from "./../wailsjs/go/main/App";
 
 const fileInput: HTMLInputElement | null =
