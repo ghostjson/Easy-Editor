@@ -1,11 +1,8 @@
-# README
+# Easy Editor
 
 ## About
 
-This is the official Wails Vanilla-TS template.
-
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+This is a simple text editor written in go lang.
 
 ## Live Development
 
