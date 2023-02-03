@@ -1,5 +1,9 @@
 # Easy Editor
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/37809353/216679420-5432d058-7792-463e-9c1e-b8fedad5dddd.png)
+
+
 ## About
 
 This is a simple text editor written in go lang.
