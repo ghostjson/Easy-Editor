@@ -3,10 +3,13 @@
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/37809353/216679420-5432d058-7792-463e-9c1e-b8fedad5dddd.png)
 
-
 ## About
 
 This is a simple text editor written in go lang.
+
+## Download
+Try easy editor
+https://github.com/ghostjson/Easy-Editor/tags
 
 ## Live Development
 
