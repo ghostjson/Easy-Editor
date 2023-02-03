@@ -11,6 +11,11 @@ This is a simple text editor written in go lang.
 Try easy editor
 https://github.com/ghostjson/Easy-Editor/tags
 
+## How to use
+- Open editor by clicking easy.exe
+- To open a new file, use `ctrl + o`
+- To save the current file, use `ctrl + s`
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
